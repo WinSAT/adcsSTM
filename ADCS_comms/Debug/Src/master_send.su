@@ -1,0 +1,4 @@
+master_send.c:24:6:I2C1_init_pins	24	static
+master_send.c:44:6:I2C1_init_config	8	static
+master_send.c:55:6:master_send_init	8	static
+master_send.c:62:6:master_send_msg	56	static
